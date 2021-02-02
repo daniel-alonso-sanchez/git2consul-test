@@ -1,0 +1,3094 @@
+[
+            {
+              "code": "-",
+              "value": "No informado"
+            },
+            {
+              "code": "0001",
+              "value": "A1-Oficiales de las fuerzas armadas"
+            },
+            {
+              "code": "0002",
+              "value": "A2-Suboficiales de las fuerzas armadas"
+            },
+            {
+              "code": "0003",
+              "value": "A3-Tropa y marinería de las fuerzas armadas"
+            },
+            {
+              "code": "0004",
+              "value": "B1-Miembros del poder ejecutivo y del poder legislativo"
+            },
+            {
+              "code": "0005",
+              "value": "B2-Personal directivo de la Administración Pública"
+            },
+            {
+              "code": "0006",
+              "value": "C1-Abogados"
+            },
+            {
+              "code": "0007",
+              "value": "C2-Fiscales"
+            },
+            {
+              "code": "0008",
+              "value": "C3-Jueces y magistrados"
+            },
+            {
+              "code": "0009",
+              "value": "C4-Notarios y registradores"
+            },
+            {
+              "code": "0010",
+              "value": "C5-Sacerdotes de las distintas religiones"
+            },
+            {
+              "code": "0011",
+              "value": "D1-Técnicos en control de procesos de producción de metales"
+            },
+            {
+              "code": "0012",
+              "value": "D2-Representantes de aduanas"
+            },
+            {
+              "code": "0013",
+              "value": "D3-Agentes y administradores de la propiedad inmobiliaria"
+            },
+            {
+              "code": "0014",
+              "value": "D4-Auxiliares laicos de las religiones"
+            },
+            {
+              "code": "0015",
+              "value": "F1-Empleados de venta de apuestas"
+            },
+            {
+              "code": "0016",
+              "value": "F2-Empleados de sala de juegos y afines"
+            },
+            {
+              "code": "0017",
+              "value": "K1-Relojeros y mecánicos de instrumentos de precisión"
+            },
+            {
+              "code": "0018",
+              "value": "K2-Joyeros, orfebres y plateros"
+            },
+            {
+              "code": "0019",
+              "value": "L1-Lectores de contadores o recaudadores máquinas recreativas/expendedoras"
+            },
+            {
+              "code": "0020",
+              "value": "A1-Agricultura, ganadería, silvicultura y pesca                                                                                                                                                         "
+            },
+            {
+              "code": "0021",
+              "value": "B1-Industrias extractivas                                                                                                                                                                               "
+            },
+            {
+              "code": "0022",
+              "value": "C1-Producción de metales preciosos                                                                                                                                                                      "
+            },
+            {
+              "code": "0023",
+              "value": "C2-Producción de aluminio                                                                                                                                                                               "
+            },
+            {
+              "code": "0024",
+              "value": "C3-Producción de plomo, zinc y estaño                                                                                                                                                                   "
+            },
+            {
+              "code": "0025",
+              "value": "C4-Producción de cobre                                                                                                                                                                                  "
+            },
+            {
+              "code": "0026",
+              "value": "C5-Producción de otros metales no férreos                                                                                                                                                               "
+            },
+            {
+              "code": "0027",
+              "value": "C6-Fabricación de armas y municiones                                                                                                                                                                    "
+            },
+            {
+              "code": "0028",
+              "value": "C7-Fabricación de vehículos militares de combate                                                                                                                                                        "
+            },
+            {
+              "code": "0029",
+              "value": "C8-Fabricación de artículos de joyería y artículos similares                                                                                                                                            "
+            },
+            {
+              "code": "0030",
+              "value": "C9-Fabricación de artículos de bisutería y artículos similares                                                                                                                                          "
+            },
+            {
+              "code": "0031",
+              "value": "C10-Otras actividades dentro de Industria Manufacturera                                                                                                                                                 "
+            },
+            {
+              "code": "0032",
+              "value": "D1-Suministro de energía eléctrica, gas, vapor y aire acondicionado                                                                                                                                     "
+            },
+            {
+              "code": "0033",
+              "value": "E1-Separación y clasificación de materiales                                                                                                                                                             "
+            },
+            {
+              "code": "0034",
+              "value": "E2-Actividades de suministro de agua, saneamiento, gestión residuos, descontaminación                                                                                                                   "
+            },
+            {
+              "code": "0035",
+              "value": "F1-Construcción / Promoción Inmobiliaria                                                                                                                                                                "
+            },
+            {
+              "code": "0036",
+              "value": "G1-Comercio al por mayor y por menor;reparación vehículos motor/motocicletas                                                                                                                            "
+            },
+            {
+              "code": "0037",
+              "value": "H1-Transporte y almacenamiento                                                                                                                                                                          "
+            },
+            {
+              "code": "0038",
+              "value": "I1-Hostelería                                                                                                                                                                                           "
+            },
+            {
+              "code": "0039",
+              "value": "J1-Información y comunicaciones                                                                                                                                                                         "
+            },
+            {
+              "code": "0040",
+              "value": "K1-Intermediación en operaciones con valores y otros activos                                                                                                                                            "
+            },
+            {
+              "code": "0041",
+              "value": "K2-Otras actividades financieras y seguros                                                                                                                                                              "
+            },
+            {
+              "code": "0042",
+              "value": "L1-Actividades inmobiliarias                                                                                                                                                                            "
+            },
+            {
+              "code": "0043",
+              "value": "M1-Actividades profesionales, científicas y técnicas                                                                                                                                                    "
+            },
+            {
+              "code": "0044",
+              "value": "N1-Actividades administrativas y servicios auxliares                                                                                                                                                    "
+            },
+            {
+              "code": "0045",
+              "value": "O1-Administración Pública y defensa; Seguridad Social obligatoria                                                                                                                                       "
+            },
+            {
+              "code": "0046",
+              "value": "P1-Educación                                                                                                                                                                                            "
+            },
+            {
+              "code": "0047",
+              "value": "Q1-Actividades sanitarias y de servicios sociales                                                                                                                                                       "
+            },
+            {
+              "code": "0048",
+              "value": "R1-Actividades de juegos de azar y apuestas                                                                                                                                                             "
+            },
+            {
+              "code": "0049",
+              "value": "R2-Otras actividades artísticas, recreativas y de entrenimiento                                                                                                                                         "
+            },
+            {
+              "code": "0050",
+              "value": "S1-Otros servicios                                                                                                                                                                                      "
+            },
+            {
+              "code": "0051",
+              "value": "T1-Empleadores personal doméstico y actividades de los hogares                                                                                                                                          "
+            },
+            {
+              "code": "0052",
+              "value": "U1-Actividades de organizaciones y organismos extraterritoriales                                                                                                                                        "
+            },
+            {
+              "code": "0053",
+              "value": "B3-Otros Directores y gerentes"
+            },
+            {
+              "code": "0054",
+              "value": "C8-Otros Técnicos y profesionales científicos e intelectuales"
+            },
+            {
+              "code": "0055",
+              "value": "D5-Otros Técnicos/ profesionales de apoyo"
+            },
+            {
+              "code": "0056",
+              "value": "E1-Empleados de oficina que no atienden al público"
+            },
+            {
+              "code": "0057",
+              "value": "F3-Otros Empleados de oficina que atienden al público"
+            },
+            {
+              "code": "0058",
+              "value": "G1-Trabajadores de los servicios de restauración y comercio"
+            },
+            {
+              "code": "0059",
+              "value": "H1-Trabajadores servicios de salud y cuidado de personas"
+            },
+            {
+              "code": "0060",
+              "value": "I1-Trabajadores de los servicios de protección y seguridad (policías, bomberos)"
+            },
+            {
+              "code": "0061",
+              "value": "J1-Trabajadores cualificados sector agrícola, ganadero, forestal y pesquero"
+            },
+            {
+              "code": "0062",
+              "value": "K3-Otros trab cualificados ind. manufactura/construcc (except operador instalac/máquina)"
+            },
+            {
+              "code": "0063",
+              "value": "K4-Operadores de instalaciones y maquinaria, y montadores"
+            },
+            {
+              "code": "0064",
+              "value": "L2-Otros Trabajadores no cualificados en servicios (excepto transportes)"
+            },
+            {
+              "code": "0065",
+              "value": "M1-Peones de agricultura,pesca, construcción,industrias manufactureras y transportes"
+            },
+            {
+              "code": "0066",
+              "value": "A4-Otras Ocupaciones militares"
+            },
+            {
+              "code": "0067",
+              "value": "N1-Personas en paro"
+            },
+            {
+              "code": "0068",
+              "value": "O1-Personas dedicadas a tareas domésticas no retribuidas"
+            },
+            {
+              "code": "0069",
+              "value": "P1-Jubilados/Pensionistas"
+            },
+            {
+              "code": "0070",
+              "value": "C6-Profesionales de la salud"
+            },
+            {
+              "code": "0071",
+              "value": "C7-Profesionales de la enseñanza"
+            },
+            {
+              "code": "0072",
+              "value": "Q1-Estudiantes"
+            },
+            {
+              "code": "0073",
+              "value": "R1-Rentistas"
+            },
+            {
+              "code": "0074",
+              "value": "X0-Organización sin ánimo de lucro (OSAL, ONL, ONG,...)                                                                                                                                                 "
+            },
+            {
+              "code": "0079",
+              "value": "X1-Institución financiera domiciliada en la UE o en Japón, Canadá y/o EE.UU., sus sucursales y filiales.                                                                                                "
+            },
+            {
+              "code": "0080",
+              "value": "X2-Administraciones públicas de la UE o en Japón, Canadá y/o EE.UU., o sociedades participadas mayoritariamente por éstas.                                                                              "
+            },
+            {
+              "code": "0081",
+              "value": "K3-Entidades de dinero electrónico y de gestión de pagos                                                                                                                                                "
+            },
+            {
+              "code": "0084",
+              "value": "Altos cargos públicos (jefes de estado, ministro, embajador, magistrados de altos tribunales, oficiales generales, directores generales)"
+            },
+            {
+              "code": "0085",
+              "value": "Venta de vehículos del sector automoción (concesionarios y actividad de reventa)"
+            },
+            {
+              "code": "0086",
+              "value": "Comercio segunda mano, subastas, y artículos de arte."
+            },
+            {
+              "code": "0087",
+              "value": "Extracción, producción, transformación y distribución de petroleo y gas natural."
+            },
+            {
+              "code": "0088",
+              "value": "Comercio de venta ambulante"
+            },
+            {
+              "code": "0089",
+              "value": "Venta y reventa de chatarra"
+            },
+            {
+              "code": "0090",
+              "value": "Actividades envío de dinero, cambio de moneda extranjera, monedas virtuales (criptomoneda)."
+            },
+            {
+              "code": "0091",
+              "value": "Actividades deportivas (no incluye clubes de fútbol)"
+            },
+            {
+              "code": "0092",
+              "value": "Industria de materiales reciclables"
+            },
+            {
+              "code": "0093",
+              "value": "G2-Comercio al por mayor y por menor"
+            },
+            {
+              "code": "0111",
+              "value": "Cultivo de cereales(exc.arroz),leguninosas y semillas oleaginosas"
+            },
+            {
+              "code": "0112",
+              "value": "Cultivo de arroz"
+            },
+            {
+              "code": "0113",
+              "value": "Cultivo de hortalizas, raíces y tubérculos"
+            },
+            {
+              "code": "0114",
+              "value": "Cultivo de caña de azúcar"
+            },
+            {
+              "code": "0115",
+              "value": "Cultivo de tabaco"
+            },
+            {
+              "code": "0116",
+              "value": "Cultivo de plantas para fibras textiles"
+            },
+            {
+              "code": "0119",
+              "value": "Otros cultivos no perennes"
+            },
+            {
+              "code": "0121",
+              "value": "Cultivo de la vid"
+            },
+            {
+              "code": "0122",
+              "value": "Cultivo de frutos tropicales y subtropicales"
+            },
+            {
+              "code": "0123",
+              "value": "Cultivo de cítricos"
+            },
+            {
+              "code": "0124",
+              "value": "Cultivo de frutos con hueso y pepitas"
+            },
+            {
+              "code": "0125",
+              "value": "Cultivo otros árboles, fresas, arbustos frutales y frutos secos"
+            },
+            {
+              "code": "0126",
+              "value": "Cultivo de frutos oleaginosos"
+            },
+            {
+              "code": "0127",
+              "value": "Cultivo de plantas para bebidas"
+            },
+            {
+              "code": "0128",
+              "value": "Cultivo especias, plantas aromáticas, medicinales farmacéuticas"
+            },
+            {
+              "code": "0129",
+              "value": "Otros cultivos perennes"
+            },
+            {
+              "code": "0130",
+              "value": "Propagación de plantas"
+            },
+            {
+              "code": "0141",
+              "value": "Explotación de ganado bovino para la producción de leche"
+            },
+            {
+              "code": "0142",
+              "value": "Explotación de otro ganado bovino"
+            },
+            {
+              "code": "0143",
+              "value": "Explotación de caballos y otros equinos"
+            },
+            {
+              "code": "0144",
+              "value": "Explotación de camellos y otros camélidos"
+            },
+            {
+              "code": "0145",
+              "value": "Explotación de ganado ovino y caprino"
+            },
+            {
+              "code": "0146",
+              "value": "Explotación de ganado porcino"
+            },
+            {
+              "code": "0147",
+              "value": "Avicultura"
+            },
+            {
+              "code": "0149",
+              "value": "Otras explotaciones de ganado"
+            },
+            {
+              "code": "0150",
+              "value": "Producción agrícola combinada con la producción ganadera"
+            },
+            {
+              "code": "0161",
+              "value": "Actividades de apoyo a la agricultura"
+            },
+            {
+              "code": "0162",
+              "value": "Actividades de apoyo a la ganadería"
+            },
+            {
+              "code": "0163",
+              "value": "Actividades de preparación posterior a la cosecha"
+            },
+            {
+              "code": "0164",
+              "value": "Tratamiento de semillas para reproducción"
+            },
+            {
+              "code": "0170",
+              "value": "Caza, captura de animales y servicios relacionados con las mismas"
+            },
+            {
+              "code": "0210",
+              "value": "Silvicultura y otras actividades forestales"
+            },
+            {
+              "code": "0220",
+              "value": "Explotación de la madera"
+            },
+            {
+              "code": "0230",
+              "value": "Recolección de productos silvestres, excepto madera"
+            },
+            {
+              "code": "0240",
+              "value": "Servicios de apoyo a la silvicultura"
+            },
+            {
+              "code": "0311",
+              "value": "Pesca marina"
+            },
+            {
+              "code": "0312",
+              "value": "Pesca en agua dulce"
+            },
+            {
+              "code": "0321",
+              "value": "Acuicultura marina"
+            },
+            {
+              "code": "0322",
+              "value": "Acuicultura en agua dulce"
+            },
+            {
+              "code": "0510",
+              "value": "Extracción de antracita y hulla  (PCS=>23865 kJ/kg)"
+            },
+            {
+              "code": "0520",
+              "value": "Extracción de lignito  (PCS<23865 kJ/kg)"
+            },
+            {
+              "code": "0610",
+              "value": "Extracción de crudo de petróleo"
+            },
+            {
+              "code": "0620",
+              "value": "Extracción de gas natural"
+            },
+            {
+              "code": "0710",
+              "value": "Extracción de minerales de hierro"
+            },
+            {
+              "code": "0721",
+              "value": "Extracción de minerales de uranio y torio"
+            },
+            {
+              "code": "0729",
+              "value": "Extracción de otros minerales metálicos no férreos"
+            },
+            {
+              "code": "0811",
+              "value": "Extrac. piedra ornamental y para construcción,piedra caliza, yeso"
+            },
+            {
+              "code": "0812",
+              "value": "Extracción de gravas y arenas; extracción de arcilla y caolín"
+            },
+            {
+              "code": "0891",
+              "value": "Extracción de minerales para productos químicos y fertilizantes"
+            },
+            {
+              "code": "0892",
+              "value": "Extracción de turba"
+            },
+            {
+              "code": "0893",
+              "value": "Extracción de sal"
+            },
+            {
+              "code": "0899",
+              "value": "Otras industrias extractivas n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "0910",
+              "value": "Actividades de apoyo a la extracción de petróleo y gas natural"
+            },
+            {
+              "code": "0990",
+              "value": "Actividades de apoyo a otras industrias extractivas"
+            },
+            {
+              "code": "1",
+              "value": "ADM. PUBLICA"
+            },
+            {
+              "code": "10",
+              "value": "COMERCIO"
+            },
+            {
+              "code": "1011",
+              "value": "Procesado y conservación de carne"
+            },
+            {
+              "code": "1012",
+              "value": "Procesado y conservación de volatería"
+            },
+            {
+              "code": "1013",
+              "value": "Elaboración de productos cárnicos y de volatería"
+            },
+            {
+              "code": "1021",
+              "value": "Procesado de pescados, crustáceos y moluscos"
+            },
+            {
+              "code": "1022",
+              "value": "Fabricación de conservas de pescados"
+            },
+            {
+              "code": "1031",
+              "value": "Procesado y conservación de patatas"
+            },
+            {
+              "code": "1032",
+              "value": "Elaboración de zumos de frutas y hortalizas"
+            },
+            {
+              "code": "1039",
+              "value": "Otro procesado y conservación de frutas y hortalizas"
+            },
+            {
+              "code": "1042",
+              "value": "Fabricación de margarina y grasas comestibles similares"
+            },
+            {
+              "code": "1043",
+              "value": "Fabricación de aceite de oliva"
+            },
+            {
+              "code": "1044",
+              "value": "Fabricación de otros aceites y grasas"
+            },
+            {
+              "code": "1052",
+              "value": "Elaboración de helados"
+            },
+            {
+              "code": "1053",
+              "value": "Fabricación de quesos"
+            },
+            {
+              "code": "1054",
+              "value": "Preparación de leche y otros productos lácteos"
+            },
+            {
+              "code": "1061",
+              "value": "Fabricación de productos de molinería"
+            },
+            {
+              "code": "1062",
+              "value": "Fabricación de almidones y productos amiláceos"
+            },
+            {
+              "code": "1071",
+              "value": "Fabricación de pan y productos frescos de panadería y pastelería"
+            },
+            {
+              "code": "1072",
+              "value": "Fabric.galletas y produc.de panadería y pastelería larga duración"
+            },
+            {
+              "code": "1073",
+              "value": "Fabricación de pastas alimenticias, cuscús y productos similares"
+            },
+            {
+              "code": "1081",
+              "value": "Fabricación de azúcar"
+            },
+            {
+              "code": "1082",
+              "value": "Fabricación de cacao, chocolate y productos de confitería"
+            },
+            {
+              "code": "1083",
+              "value": "Elaboración de café, té e infusiones"
+            },
+            {
+              "code": "1084",
+              "value": "Elaboración de especias y condimentos"
+            },
+            {
+              "code": "1085",
+              "value": "Elaboración de platos y comidas preparados"
+            },
+            {
+              "code": "1086",
+              "value": "Elabor. prepa. alimenticios homogeneizados y alimentos dietéticos"
+            },
+            {
+              "code": "1089",
+              "value": "Elaboración de otros productos alimenticios n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "1091",
+              "value": "Fabricación productos para la alimentación de animales de granja"
+            },
+            {
+              "code": "1092",
+              "value": "Fabricación productos para la alimentación animales de compañía"
+            },
+            {
+              "code": "11",
+              "value": "ENSEÑANZA"
+            },
+            {
+              "code": "1101",
+              "value": "Destilación, rectificación y mezcla de bebidas alcohólicas"
+            },
+            {
+              "code": "1102",
+              "value": "Elaboración de vinos"
+            },
+            {
+              "code": "1103",
+              "value": "Elaboración sidra y otras bebidas fermentadas a partir de frutas"
+            },
+            {
+              "code": "1104",
+              "value": "Elabor. otras bebidas no destiladas, procedentes de la fermentac."
+            },
+            {
+              "code": "1105",
+              "value": "Fabricación de cerveza"
+            },
+            {
+              "code": "1106",
+              "value": "Fabricación de malta"
+            },
+            {
+              "code": "1107",
+              "value": "Fabricación bebidas no alcohól.; producción aguas minerales"
+            },
+            {
+              "code": "12",
+              "value": "FUERZAS ARMADAS"
+            },
+            {
+              "code": "1200",
+              "value": "Industria del tabaco"
+            },
+            {
+              "code": "13",
+              "value": "FUERZA ORDEN PÚBLICO"
+            },
+            {
+              "code": "1310",
+              "value": "Preparación e hilado de fibras textiles"
+            },
+            {
+              "code": "1320",
+              "value": "Fabricación de tejidos textiles"
+            },
+            {
+              "code": "1330",
+              "value": "Acabado de textiles"
+            },
+            {
+              "code": "1391",
+              "value": "Fabricación de tejidos de punto"
+            },
+            {
+              "code": "1392",
+              "value": "Fabric. artículos confeccionados con textiles,epto prendas vestir"
+            },
+            {
+              "code": "1393",
+              "value": "Fabricación de alfombras y moquetas"
+            },
+            {
+              "code": "1394",
+              "value": "Fabricación de cuerdas, cordeles, bramantes y redes"
+            },
+            {
+              "code": "1395",
+              "value": "Fabric. telas n/tejidas y art. confec., excptoprendas vestir"
+            },
+            {
+              "code": "1396",
+              "value": "Fabricación otros productos textiles de uso técnico e industrial"
+            },
+            {
+              "code": "1399",
+              "value": "Fabricación de otros productos textiles n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "14",
+              "value": "MADERA Y CORCHO"
+            },
+            {
+              "code": "1411",
+              "value": "Confección de prendas de vestir de cuero"
+            },
+            {
+              "code": "1412",
+              "value": "Confección de ropa de trabajo"
+            },
+            {
+              "code": "1413",
+              "value": "Confección otras prendas vestir exteriores(menos ropa interior)"
+            },
+            {
+              "code": "1414",
+              "value": "Confección de ropa interior"
+            },
+            {
+              "code": "1419",
+              "value": "Confección de otras prendas de vestir y accesorios n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "1420",
+              "value": "Fabricación de artículos de peletería"
+            },
+            {
+              "code": "1431",
+              "value": "Confección de calcetería"
+            },
+            {
+              "code": "1439",
+              "value": "Confección de otras prendas de vestir de punto"
+            },
+            {
+              "code": "15",
+              "value": "MINERÍA Y METALURGIA"
+            },
+            {
+              "code": "1511",
+              "value": "Preparación/curtido/acabado cuero; preparación y teñido pieles"
+            },
+            {
+              "code": "1512",
+              "value": "Fabric. artíc. marroquin.,viaje y guarnicionería y talabartería"
+            },
+            {
+              "code": "1520",
+              "value": "Fabricación de calzado"
+            },
+            {
+              "code": "16",
+              "value": "PAPEL ARTES GRÁFICAS"
+            },
+            {
+              "code": "1610",
+              "value": "Aserrado y cepillado de la madera"
+            },
+            {
+              "code": "1621",
+              "value": "Fabricación de chapas y tableros de madera"
+            },
+            {
+              "code": "1622",
+              "value": "Fabricación de suelos de madera ensamblados"
+            },
+            {
+              "code": "1623",
+              "value": "Fabric. otras estruct. madera y piezas carpintería y ebanistería"
+            },
+            {
+              "code": "1624",
+              "value": "Fabricación de envases y embalajes de madera"
+            },
+            {
+              "code": "1629",
+              "value": "Fabric. otros produc.madera; artíc. corcho, cestería y espartería"
+            },
+            {
+              "code": "17",
+              "value": "PESCA"
+            },
+            {
+              "code": "1711",
+              "value": "Fabricación de pasta papelera"
+            },
+            {
+              "code": "1712",
+              "value": "Fabricación de papel y cartón"
+            },
+            {
+              "code": "1721",
+              "value": "Fabric.papel/cartón ondul.;fabric. envases/embalajes papel/cartón"
+            },
+            {
+              "code": "1722",
+              "value": "Fabric. artíc. papel/cartón para uso doméstic/sanitario/higiénico"
+            },
+            {
+              "code": "1723",
+              "value": "Fabricación de artículos de papelería"
+            },
+            {
+              "code": "1724",
+              "value": "Fabricación de papeles pintados"
+            },
+            {
+              "code": "1729",
+              "value": "Fabricación de otros artículos de papel y cartón n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "18",
+              "value": "PLÁSTICO"
+            },
+            {
+              "code": "1811",
+              "value": "Impresión de periódicos"
+            },
+            {
+              "code": "1812",
+              "value": "Otras actividades de impresión y artes gráficas n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "1813",
+              "value": "Servicios de preimpresión y preparación de soportes"
+            },
+            {
+              "code": "1814",
+              "value": "Encuadernación y servicios relacionados con la misma"
+            },
+            {
+              "code": "1820",
+              "value": "Reproducción de soportes grabados"
+            },
+            {
+              "code": "19",
+              "value": "QUÍMICAS"
+            },
+            {
+              "code": "1910",
+              "value": "Coquerías"
+            },
+            {
+              "code": "1920",
+              "value": "Refino de petróleo"
+            },
+            {
+              "code": "2",
+              "value": "AGRICUL/GANAD/PESCA"
+            },
+            {
+              "code": "20",
+              "value": "TAXI"
+            },
+            {
+              "code": "2011",
+              "value": "Fabricación de gases industriales"
+            },
+            {
+              "code": "2012",
+              "value": "Fabricación de colorantes y pigmentos"
+            },
+            {
+              "code": "2013",
+              "value": "Fabricación de otros productos básicos de química inorgánica"
+            },
+            {
+              "code": "2014",
+              "value": "Fabricación de otros productos básicos de química orgánica"
+            },
+            {
+              "code": "2015",
+              "value": "Fabricación de fertilizantes y compuestos nitrogenados"
+            },
+            {
+              "code": "2016",
+              "value": "Fabricación de plásticos en formas primarias"
+            },
+            {
+              "code": "2017",
+              "value": "Fabricación de caucho sintético en formas primarias"
+            },
+            {
+              "code": "2020",
+              "value": "Fabricación de pesticidas y otros productos agroquímicos"
+            },
+            {
+              "code": "2030",
+              "value": "Fabric. pinturas/barnices/revest. similares; tintas y masillas"
+            },
+            {
+              "code": "2041",
+              "value": "Fabric. jabones/detergentes/otros artículos limpieza y abrillant."
+            },
+            {
+              "code": "2042",
+              "value": "Fabricación de perfumes y cosméticos"
+            },
+            {
+              "code": "2051",
+              "value": "Fabricación de explosivos"
+            },
+            {
+              "code": "2052",
+              "value": "Fabricación de colas"
+            },
+            {
+              "code": "2053",
+              "value": "Fabricación de aceites esenciales"
+            },
+            {
+              "code": "2059",
+              "value": "Fabricación de otros productos químicos n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "2060",
+              "value": "Fabricación fibras artificiales y sintéticas"
+            },
+            {
+              "code": "21",
+              "value": "INFORMÁTICA"
+            },
+            {
+              "code": "2110",
+              "value": "Fabricación de productos farmacéuticos de base"
+            },
+            {
+              "code": "2120",
+              "value": "Fabricación de especialidades farmacéuticas"
+            },
+            {
+              "code": "22",
+              "value": "PRENSA, RADIO Y TV"
+            },
+            {
+              "code": "2211",
+              "value": "Fabric. neumáticos/cámaras caucho/reconstr. y recauch. neumáticos"
+            },
+            {
+              "code": "2219",
+              "value": "Fabricación de otros productos de caucho"
+            },
+            {
+              "code": "2221",
+              "value": "Fabricación de placas, hojas, tubos y perfiles de plástico"
+            },
+            {
+              "code": "2222",
+              "value": "Fabricación de envases y embalajes de plástico"
+            },
+            {
+              "code": "2223",
+              "value": "Fabricación de productos de plástico para la construcción"
+            },
+            {
+              "code": "2229",
+              "value": "Fabricación de otros productos de plástico"
+            },
+            {
+              "code": "23",
+              "value": "BANCA Y SEGUROS"
+            },
+            {
+              "code": "2311",
+              "value": "Fabricación de vidrio plano"
+            },
+            {
+              "code": "2312",
+              "value": "Manipulado y transformación de vidrio plano"
+            },
+            {
+              "code": "2313",
+              "value": "Fabricación de vidrio hueco"
+            },
+            {
+              "code": "2314",
+              "value": "Fabricación de fibra de vidrio"
+            },
+            {
+              "code": "2319",
+              "value": "Fabricación y manipulado otro vidrio, incluido el vidrio técnico"
+            },
+            {
+              "code": "2320",
+              "value": "Fabricación productos cerámicos refractarios"
+            },
+            {
+              "code": "2331",
+              "value": "Fabricación de azulejos y baldosas de cerámica"
+            },
+            {
+              "code": "2332",
+              "value": "Fabric. ladrillos/tejas/produc. tierras cocidas para construcción"
+            },
+            {
+              "code": "2341",
+              "value": "Fabricación de artículos cerámicos de uso doméstico y ornamental"
+            },
+            {
+              "code": "2342",
+              "value": "Fabricación de aparatos sanitarios cerámicos"
+            },
+            {
+              "code": "2343",
+              "value": "Fabricación aisladores y piezas aislantes de material cerámico"
+            },
+            {
+              "code": "2344",
+              "value": "Fabricación de otros productos cerámicos de uso técnico"
+            },
+            {
+              "code": "2349",
+              "value": "Fabricación de otros productos cerámicos n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "2351",
+              "value": "Fabricación de cemento"
+            },
+            {
+              "code": "2352",
+              "value": "Fabricación de cal y yeso"
+            },
+            {
+              "code": "2361",
+              "value": "Fabricación de elementos de hormigón para la construcción"
+            },
+            {
+              "code": "2362",
+              "value": "Fabricación de elementos de yeso para la construcción"
+            },
+            {
+              "code": "2363",
+              "value": "Fabricación de hormigón fresco"
+            },
+            {
+              "code": "2364",
+              "value": "Fabricación de mortero"
+            },
+            {
+              "code": "2365",
+              "value": "Fabricación de fibrocemento"
+            },
+            {
+              "code": "2369",
+              "value": "Fabricación de otros productos de hormigón, yeso y cemento"
+            },
+            {
+              "code": "2370",
+              "value": "Corte, tallado y acabado de la piedra"
+            },
+            {
+              "code": "2391",
+              "value": "Fabricación de productos abrasivos"
+            },
+            {
+              "code": "2399",
+              "value": "Fabricación otros productos minerales no metálicos n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "24",
+              "value": "CONST. Y MAT. CONST."
+            },
+            {
+              "code": "2410",
+              "value": "Fabricación productos básicos de hierro, acero y ferroaleaciones"
+            },
+            {
+              "code": "2420",
+              "value": "Fabricación tubos/tuberías/perfiles huecos y sus acc. de acero"
+            },
+            {
+              "code": "2431",
+              "value": "Estirado en frío"
+            },
+            {
+              "code": "2432",
+              "value": "Laminación en frío"
+            },
+            {
+              "code": "2433",
+              "value": "Producción de perfiles en frío por conformación con plegado"
+            },
+            {
+              "code": "2434",
+              "value": "Trefilado en frío"
+            },
+            {
+              "code": "2441",
+              "value": "Producción de metales preciosos"
+            },
+            {
+              "code": "2442",
+              "value": "Producción de aluminio"
+            },
+            {
+              "code": "2443",
+              "value": "Producción de plomo, zinc y estaño"
+            },
+            {
+              "code": "2444",
+              "value": "Producción de cobre"
+            },
+            {
+              "code": "2445",
+              "value": "Producción de otros metales no férreos"
+            },
+            {
+              "code": "2446",
+              "value": "Procesamiento de combustibles nucleares"
+            },
+            {
+              "code": "2451",
+              "value": "Fundición de hierro"
+            },
+            {
+              "code": "2452",
+              "value": "Fundición de acero"
+            },
+            {
+              "code": "2453",
+              "value": "Fundición de metales ligeros"
+            },
+            {
+              "code": "2454",
+              "value": "Fundición de otros metales no férreos"
+            },
+            {
+              "code": "25",
+              "value": "CUERO Y PIEL"
+            },
+            {
+              "code": "2511",
+              "value": "Fabricación de estructuras metálicas y sus componentes"
+            },
+            {
+              "code": "2512",
+              "value": "Fabricación de carpintería metálica"
+            },
+            {
+              "code": "2521",
+              "value": "Fabricación de radiadores y calderas para calefacción central"
+            },
+            {
+              "code": "2529",
+              "value": "Fabric. otras cisternas/grandes depósitos y contenedores de metal"
+            },
+            {
+              "code": "2530",
+              "value": "Fabric. generadores vapor, excpto calderas para calefac. central"
+            },
+            {
+              "code": "2540",
+              "value": "Fabricación de armas y municiones"
+            },
+            {
+              "code": "2550",
+              "value": "Forja, estampación y embutición de metales; metalurgia de polvos"
+            },
+            {
+              "code": "2561",
+              "value": "Tratamiento y revestimiento de metales"
+            },
+            {
+              "code": "2562",
+              "value": "Ingeniería mecánica general"
+            },
+            {
+              "code": "2571",
+              "value": "Fabricación de artículos de cuchillería y cubertería"
+            },
+            {
+              "code": "2572",
+              "value": "Fabricación de cerraduras y herrajes"
+            },
+            {
+              "code": "2573",
+              "value": "Fabricación de herramientas"
+            },
+            {
+              "code": "2591",
+              "value": "Fabricación de bidones y toneles de acero"
+            },
+            {
+              "code": "2592",
+              "value": "Fabricación de envases y embalajes metálicos ligeros"
+            },
+            {
+              "code": "2593",
+              "value": "Fabricación de productos de alambre, cadenas y muelles"
+            },
+            {
+              "code": "2594",
+              "value": "Fabricación de pernos y productos de tornillería"
+            },
+            {
+              "code": "2599",
+              "value": "Fabricación de otros productos metálicos n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "26",
+              "value": "ESPECT. Y DEPORTES"
+            },
+            {
+              "code": "2611",
+              "value": "Fabricación de componentes electrónicos"
+            },
+            {
+              "code": "2612",
+              "value": "Fabricación de circuitos impresos ensamblados"
+            },
+            {
+              "code": "2620",
+              "value": "Fabricación de ordenadores y equipos periféricos"
+            },
+            {
+              "code": "2630",
+              "value": "Fabricación de equipos de telecomunicaciones"
+            },
+            {
+              "code": "2640",
+              "value": "Fabricacióncde productos electrónicos de consumo"
+            },
+            {
+              "code": "2651",
+              "value": "Fabric. instrum. y aparatos de medida, verificación y navegación"
+            },
+            {
+              "code": "2652",
+              "value": "Fabricación de relojes"
+            },
+            {
+              "code": "2660",
+              "value": "Fabric. equipos radiación, electromédicos y elelectroterapéuticos"
+            },
+            {
+              "code": "2670",
+              "value": "Fabricación de instrumentos de óptica y equipo fotográfico"
+            },
+            {
+              "code": "2680",
+              "value": "Fabric. soportes magnéticos y ópticos destinados a grabacion"
+            },
+            {
+              "code": "27",
+              "value": "HOSTELERÍA"
+            },
+            {
+              "code": "2711",
+              "value": "Fabricación de motores, generadores y transformadores eléctricos"
+            },
+            {
+              "code": "2712",
+              "value": "Fabricación de aparatos de distribución y control eléctrico"
+            },
+            {
+              "code": "2720",
+              "value": "Fabricación de pilas y acumuladores eléctricos"
+            },
+            {
+              "code": "2731",
+              "value": "Fabricación de cables de fibra óptica"
+            },
+            {
+              "code": "2732",
+              "value": "Fabricación de otros hilos y cables electrónicos y eléctricos"
+            },
+            {
+              "code": "2733",
+              "value": "Fabricación de dispositivos de cableado"
+            },
+            {
+              "code": "2740",
+              "value": "Fabricación de lámparas y aparatos eléctricos de iluminación"
+            },
+            {
+              "code": "2751",
+              "value": "Fabricación de electrodomésticos"
+            },
+            {
+              "code": "2752",
+              "value": "Fabricación de aparatos domésticos no eléctricos"
+            },
+            {
+              "code": "2790",
+              "value": "Fabricación de otro material y equipo eléctrico"
+            },
+            {
+              "code": "28",
+              "value": "TEXTIL"
+            },
+            {
+              "code": "2811",
+              "value": "Fabric. motores/turbinas, excpto los dest. a aeronaves/vehíc."
+            },
+            {
+              "code": "2812",
+              "value": "Fabricación de motores hidráulicos"
+            },
+            {
+              "code": "2813",
+              "value": "Fabricación de otras bombas y compresores"
+            },
+            {
+              "code": "2814",
+              "value": "Fabricación de otra grifería y válvulas"
+            },
+            {
+              "code": "2815",
+              "value": "Fabric. cojinetes/engranajes y órganos mecánicos de transmisión"
+            },
+            {
+              "code": "2821",
+              "value": "Fabricación de hornos y quemadores"
+            },
+            {
+              "code": "2822",
+              "value": "Fabricación de maquinaria de elevación y manipulación"
+            },
+            {
+              "code": "2823",
+              "value": "Fabric. máquinas y equipos oficina, excepto equipos informáticos"
+            },
+            {
+              "code": "2824",
+              "value": "Fabricación de herramientas eléctricas manuales"
+            },
+            {
+              "code": "2825",
+              "value": "Fabric. maquinaria ventilación y refrigeración no doméstica"
+            },
+            {
+              "code": "2829",
+              "value": "Fabricación de otra maquinaria de uso general n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "2830",
+              "value": "Fabricación de maquinaria agraria y forestal"
+            },
+            {
+              "code": "2841",
+              "value": "Fabricación de máquinas herramienta para trabajar el metal"
+            },
+            {
+              "code": "2849",
+              "value": "Fabricación de otras máquinas herramienta"
+            },
+            {
+              "code": "2891",
+              "value": "Fabricación de maquinaria para la industria metalúrgica"
+            },
+            {
+              "code": "2892",
+              "value": "Fabric. maq. para las industrias sxtractivas y de la construcción"
+            },
+            {
+              "code": "2893",
+              "value": "Fabric. maq. para la industria de la alimentación, bebidas/tabaco"
+            },
+            {
+              "code": "2894",
+              "value": "Fabric. maq. para las industrias textil, de la confección y cuero"
+            },
+            {
+              "code": "2895",
+              "value": "Fabric. maquinaria para la industria del papel y del cartón"
+            },
+            {
+              "code": "2896",
+              "value": "Fabric. maquinaria para las industrias del plástico y del caucho"
+            },
+            {
+              "code": "2899",
+              "value": "Fabric. de otra maquinaria para usos específicos n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "29",
+              "value": "TRANSPORTE PESADO"
+            },
+            {
+              "code": "2910",
+              "value": "Fabricación de vehículos de motor"
+            },
+            {
+              "code": "2920",
+              "value": "Fabric. carrocerías para vehículos motor; fabricación remolques"
+            },
+            {
+              "code": "2931",
+              "value": "Fabric. equipos eléctricos y electrónicos para vehículos motor"
+            },
+            {
+              "code": "2932",
+              "value": "Fabric. otros compon., piezas y accesorios para vehículos motor"
+            },
+            {
+              "code": "3",
+              "value": "INDUSTRIA"
+            },
+            {
+              "code": "30",
+              "value": "TRANSPORTE LIGERO"
+            },
+            {
+              "code": "3011",
+              "value": "Construcción de barcos y estructuras flotantes"
+            },
+            {
+              "code": "3012",
+              "value": "Construcción de embarcaciones de recreo y deporte"
+            },
+            {
+              "code": "3020",
+              "value": "Fabricación de locomotoras y material ferroviario"
+            },
+            {
+              "code": "3030",
+              "value": "Construcción aeronáutica y espacial y su maquinaria"
+            },
+            {
+              "code": "3040",
+              "value": "Fabricación de vehículos militares de combate"
+            },
+            {
+              "code": "3091",
+              "value": "Fabricación de motocicletas"
+            },
+            {
+              "code": "3092",
+              "value": "Fabric. bicicletas/vehículos para persona con  discapacidad"
+            },
+            {
+              "code": "3099",
+              "value": "Fabricación de otro material de transporte n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "31",
+              "value": "INMOBILIARIAS"
+            },
+            {
+              "code": "3101",
+              "value": "Fabric. muebles de oficina y de establecimientos comerciales"
+            },
+            {
+              "code": "3102",
+              "value": "Fabricación de muebles de cocina"
+            },
+            {
+              "code": "3103",
+              "value": "Fabricación de colchones"
+            },
+            {
+              "code": "3109",
+              "value": "Fabricación de otros muebles n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "32",
+              "value": "SERVICIO HOGAR"
+            },
+            {
+              "code": "3211",
+              "value": "Fabricación de monedas"
+            },
+            {
+              "code": "3212",
+              "value": "Fabric. artíc. joyería y actíc. similares, metales preciosos/semi"
+            },
+            {
+              "code": "3213",
+              "value": "Fabricación de artículos de bisutería y artículos similares"
+            },
+            {
+              "code": "3220",
+              "value": "Fabricación de instrumentos musicales"
+            },
+            {
+              "code": "3230",
+              "value": "Fabricación de artículos de deporte"
+            },
+            {
+              "code": "3240",
+              "value": "Fabricación de juegos y juguetes"
+            },
+            {
+              "code": "3250",
+              "value": "Fabric. instrumentos y suministros médicos y odontológicos"
+            },
+            {
+              "code": "3291",
+              "value": "Fabricación de escobas, brochas y cepillos"
+            },
+            {
+              "code": "3299",
+              "value": "Otras industrias manufactureras n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "33",
+              "value": "SERVICIOS REPARACIÓN"
+            },
+            {
+              "code": "3311",
+              "value": "Reparación de productos metálicos"
+            },
+            {
+              "code": "3312",
+              "value": "Reparación de maquinaria"
+            },
+            {
+              "code": "3313",
+              "value": "Reparación de equipos electrónicos y ópticos"
+            },
+            {
+              "code": "3314",
+              "value": "Reparación de equipos eléctricos"
+            },
+            {
+              "code": "3315",
+              "value": "Reparación y mantenimiento naval"
+            },
+            {
+              "code": "3316",
+              "value": "Reparación y mantenimiento aeronáutico y espacial"
+            },
+            {
+              "code": "3317",
+              "value": "Reparación y mantenimiento de otro material de transporte"
+            },
+            {
+              "code": "3319",
+              "value": "Reparación de otros equipos"
+            },
+            {
+              "code": "3320",
+              "value": "Instalación de máquinas y equipos industriales"
+            },
+            {
+              "code": "34",
+              "value": "OTROS"
+            },
+            {
+              "code": "35",
+              "value": "ORDENES RELIGIOSAS"
+            },
+            {
+              "code": "3512",
+              "value": "Transporte de energía eléctrica"
+            },
+            {
+              "code": "3513",
+              "value": "Distribución de energía eléctrica"
+            },
+            {
+              "code": "3514",
+              "value": "Comercio de energía eléctrica"
+            },
+            {
+              "code": "3515",
+              "value": "Producción de energía hidroeléctrica"
+            },
+            {
+              "code": "3516",
+              "value": "Producción de energía eléctrica de origen térmico convencional"
+            },
+            {
+              "code": "3517",
+              "value": "Producción de energía eléctrica de origen nuclear"
+            },
+            {
+              "code": "3518",
+              "value": "Producción de energía eléctrica de origen eólico"
+            },
+            {
+              "code": "3519",
+              "value": "Producción de energía eléctrica de otros tipos"
+            },
+            {
+              "code": "3521",
+              "value": "Producción de gas"
+            },
+            {
+              "code": "3522",
+              "value": "Distribución por tubería de combustibles gaseosos"
+            },
+            {
+              "code": "3523",
+              "value": "Comercio de gas por tubería"
+            },
+            {
+              "code": "3530",
+              "value": "Suministro de vapor y aire acondicionado"
+            },
+            {
+              "code": "36",
+              "value": "POLITICA"
+            },
+            {
+              "code": "3600",
+              "value": "Captación, depuración y distribución de agua"
+            },
+            {
+              "code": "37",
+              "value": "CUENTA PROPIA"
+            },
+            {
+              "code": "3700",
+              "value": "Recogida y tratamiento de aguas residuales"
+            },
+            {
+              "code": "38",
+              "value": "CUENTA AJENA"
+            },
+            {
+              "code": "3811",
+              "value": "Recogida de residuos no peligrosos"
+            },
+            {
+              "code": "3812",
+              "value": "Recogida de residuos peligrosos"
+            },
+            {
+              "code": "3821",
+              "value": "Tratamiento y eliminación de residuos no peligrosos"
+            },
+            {
+              "code": "3822",
+              "value": "Tratamiento y eliminación de residuos peligrosos"
+            },
+            {
+              "code": "3831",
+              "value": "Separación y clasificación de materiales"
+            },
+            {
+              "code": "3832",
+              "value": "Valorización de materiales ya clasificados"
+            },
+            {
+              "code": "39",
+              "value": "SIN OCUPACION/DESEMPLEO"
+            },
+            {
+              "code": "3900",
+              "value": "Actividades descontaminación y otros servicios de gest. residuos"
+            },
+            {
+              "code": "4",
+              "value": "SERVICIOS"
+            },
+            {
+              "code": "40",
+              "value": "JUBILADO/PENSIONISTA"
+            },
+            {
+              "code": "41",
+              "value": "JUBILADO CON OCUPACIÓN"
+            },
+            {
+              "code": "4110",
+              "value": "Promoción inmobiliaria"
+            },
+            {
+              "code": "4121",
+              "value": "Construcción de edificios residenciales"
+            },
+            {
+              "code": "4122",
+              "value": "Construcción de edificios no residenciales"
+            },
+            {
+              "code": "42",
+              "value": "JUBILADO"
+            },
+            {
+              "code": "4211",
+              "value": "Construcción de carreteras y autopistas"
+            },
+            {
+              "code": "4212",
+              "value": "Construcción de vías férreas de superficie y subterráneas"
+            },
+            {
+              "code": "4213",
+              "value": "Construcción de puentes y túneles"
+            },
+            {
+              "code": "4221",
+              "value": "Construcción de redes para fluidos"
+            },
+            {
+              "code": "4222",
+              "value": "Construcción de redes eléctricas y de telecomunicaciones"
+            },
+            {
+              "code": "4291",
+              "value": "Obras hidráulicas"
+            },
+            {
+              "code": "4299",
+              "value": "Construcción de otros proyectos de ingeniería civil n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "43",
+              "value": "PENSIONISTA"
+            },
+            {
+              "code": "4311",
+              "value": "Demolición"
+            },
+            {
+              "code": "4312",
+              "value": "Preparación de terrenos"
+            },
+            {
+              "code": "4313",
+              "value": "Perforaciones y sondeos"
+            },
+            {
+              "code": "4321",
+              "value": "Instalaciones eléctricas"
+            },
+            {
+              "code": "4322",
+              "value": "Fontanería, instalaciones sistemas calefac./aire acondicionado"
+            },
+            {
+              "code": "4329",
+              "value": "Otras instalaciones en obras de construcción"
+            },
+            {
+              "code": "4331",
+              "value": "Revocamiento"
+            },
+            {
+              "code": "4332",
+              "value": "Instalación de carpintería"
+            },
+            {
+              "code": "4333",
+              "value": "Revestimiento de suelos y paredes"
+            },
+            {
+              "code": "4334",
+              "value": "Pintura y acristalamiento"
+            },
+            {
+              "code": "4339",
+              "value": "Otro acabado de edificios"
+            },
+            {
+              "code": "4391",
+              "value": "Construcción de cubiertas"
+            },
+            {
+              "code": "4399",
+              "value": "Otras actividades de construcción especializada n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "44",
+              "value": "PERSONA JURÍDICA"
+            },
+            {
+              "code": "45",
+              "value": "O1-Administración Pública y defensa; Seguridad Social obligatoria"
+            },
+            {
+              "code": "4511",
+              "value": "Venta automóviles/vehículos motor ligeros(menos de 3,5 toneladas)"
+            },
+            {
+              "code": "4519",
+              "value": "Venta de otros vehículos de motor"
+            },
+            {
+              "code": "4520",
+              "value": "Mantenimiento y reparación de vehículos de motor"
+            },
+            {
+              "code": "4531",
+              "value": "Comercio al por mayor repuestos/accesorios de vehículos de motor"
+            },
+            {
+              "code": "4532",
+              "value": "Comercio al por menor repuestos/accesorios vehículos de motor"
+            },
+            {
+              "code": "4540",
+              "value": "Venta/manten./reparación motocicletas y de sus repuestos/accesor."
+            },
+            {
+              "code": "46",
+              "value": "P1-Educación "
+            },
+            {
+              "code": "4611",
+              "value": "Interm. comercio materias primas agrarias/animales/testiles/prod."
+            },
+            {
+              "code": "4612",
+              "value": "Inter. comercio combustibles/minerales/metales/prod. químicos"
+            },
+            {
+              "code": "4613",
+              "value": "Interm. comercio madera y materiales de contrucción"
+            },
+            {
+              "code": "4614",
+              "value": "Interm. comercio maquinaria/equip. indust./embarca./aeronaves"
+            },
+            {
+              "code": "4615",
+              "value": "Interm. comercio muebles, artículos para el hogar y ferretería"
+            },
+            {
+              "code": "4616",
+              "value": "Interm. comercio textiles/prendas vestir/peletería/calzado/cuero"
+            },
+            {
+              "code": "4617",
+              "value": "Interm. comercio productos alimenticios, bebidas y tabaco"
+            },
+            {
+              "code": "4618",
+              "value": "Interm. comercio espec. venta otros prod. específ. n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "4619",
+              "value": "diversosiarios del comercio de productos diversos"
+            },
+            {
+              "code": "4621",
+              "value": "Comer. por mayor cereales/tabaco rama/simientes/alim. para animal"
+            },
+            {
+              "code": "4622",
+              "value": "Comercio al por mayor de flores y plantas"
+            },
+            {
+              "code": "4623",
+              "value": "Comercio al por mayor de animales vivos"
+            },
+            {
+              "code": "4624",
+              "value": "Comercio al por mayor de cueros y pieles"
+            },
+            {
+              "code": "4631",
+              "value": "Comercio al por mayor de frutas y hortalizas"
+            },
+            {
+              "code": "4632",
+              "value": "Comercio al por mayor de carne y productos cárnicos"
+            },
+            {
+              "code": "4633",
+              "value": "Comerc. p/m productos lácteos/huevos/aceites/grasas comestibles"
+            },
+            {
+              "code": "4634",
+              "value": "Comercio al por mayor de bebidas"
+            },
+            {
+              "code": "4635",
+              "value": "Comercio al por mayor de productos del tabaco"
+            },
+            {
+              "code": "4636",
+              "value": "Comercio al por mayor de azúcar, chocolate y confitería"
+            },
+            {
+              "code": "4637",
+              "value": "Comercio al por mayor de café, té, cacao y especias"
+            },
+            {
+              "code": "4638",
+              "value": "Comercio p/m pescados/mariscos/otros productos alimenticios"
+            },
+            {
+              "code": "4639",
+              "value": "Comercio p/m, no especializado, prod. alimen., bebidas y tabaco"
+            },
+            {
+              "code": "4641",
+              "value": "Comercio al por mayor de textiles"
+            },
+            {
+              "code": "4642",
+              "value": "Comercio al por mayor de prendas de vestir y calzado"
+            },
+            {
+              "code": "4643",
+              "value": "Comercio al por mayor de aparatos electrodomésticos"
+            },
+            {
+              "code": "4644",
+              "value": "Comercio p/m porcelana, cristalería y artículos de limpieza"
+            },
+            {
+              "code": "4645",
+              "value": "Comercio al por mayor de productos de perfumería y cosmética"
+            },
+            {
+              "code": "4646",
+              "value": "Comercio al por mayor de productos farmacéuticos"
+            },
+            {
+              "code": "4647",
+              "value": "Comercio p/m muebles, alfombras y aparatos de iluminación"
+            },
+            {
+              "code": "4648",
+              "value": "Comercio al por mayor de artículos de relojería y joyería"
+            },
+            {
+              "code": "4649",
+              "value": "Comercio al por mayor de otros artículos de uso doméstico"
+            },
+            {
+              "code": "4651",
+              "value": "Comercio p/m ordenadores, equipos periféricos y prog. infor."
+            },
+            {
+              "code": "4652",
+              "value": "Comercio p/m equipos electrón. y telecomun. y sus componentes"
+            },
+            {
+              "code": "4661",
+              "value": "Comercio p/m maquinaria, equipos y suministros agrícolas"
+            },
+            {
+              "code": "4662",
+              "value": "Comercio al por mayor de máquinas herramienta"
+            },
+            {
+              "code": "4663",
+              "value": "Comercio p/m maquinaria para minería, construcción y ingen. civil"
+            },
+            {
+              "code": "4664",
+              "value": "Comercio p/m máq. para industria textil y máq. coser y tricortar"
+            },
+            {
+              "code": "4665",
+              "value": "Comercio al por mayor de muebles de oficina"
+            },
+            {
+              "code": "4666",
+              "value": "Comercio al por mayor de otra maquinaria y equipo de oficina"
+            },
+            {
+              "code": "4669",
+              "value": "Comercio al por mayor de otra maquinaria y equipo"
+            },
+            {
+              "code": "4671",
+              "value": "Comercio p/m combustibles sólidos/líquidos/gaseosos/prod. simil."
+            },
+            {
+              "code": "4672",
+              "value": "Comercio al por mayor de metales y minerales metálicos"
+            },
+            {
+              "code": "4673",
+              "value": "Comercio p/m madera, materiales construcción y aparatos sanit."
+            },
+            {
+              "code": "4674",
+              "value": "Comercio al por mayor de ferretería,fontanería y calefacción"
+            },
+            {
+              "code": "4675",
+              "value": "Comercio al por mayor de productos químicos"
+            },
+            {
+              "code": "4676",
+              "value": "Comercio al por mayor de otros productos semielaborados"
+            },
+            {
+              "code": "4677",
+              "value": "Comercio al por mayor de chatarra y productos de desecho"
+            },
+            {
+              "code": "4690",
+              "value": "Comercio al por mayor no especializado"
+            },
+            {
+              "code": "47",
+              "value": "Q1-Actividades sanitarias y de servicios sociales"
+            },
+            {
+              "code": "4711",
+              "value": "Comercio p/m en estableci. no espec., con predominio en prod."
+            },
+            {
+              "code": "4719",
+              "value": "Otro comercio p/m en establ. no espec., espec. de prod. n/alim."
+            },
+            {
+              "code": "4721",
+              "value": "Comercio p/me frutas y hortalizas en estaabl. especializados"
+            },
+            {
+              "code": "4722",
+              "value": "Comercio p/me carne y productos cárnicos estbl. especializados"
+            },
+            {
+              "code": "4723",
+              "value": "Comercio p/me pescados/mariscos en establ. especializados"
+            },
+            {
+              "code": "4724",
+              "value": "Comercio p/me pan/prod. panadería, confit./pastel. estbl. esp."
+            },
+            {
+              "code": "4725",
+              "value": "Comercio p/me bebidas en establecimientos especializados"
+            },
+            {
+              "code": "4726",
+              "value": "Comercio p/me productos tabaco establecimientos especializados"
+            },
+            {
+              "code": "4729",
+              "value": "Otro comercio p/me productos alimen. establecimientos esp."
+            },
+            {
+              "code": "4730",
+              "value": "Comercio p/me combustible para automoción establ. especializados"
+            },
+            {
+              "code": "4741",
+              "value": "Comercio p/me ordenadores, eq. perif. y pgms inform. estbl. esp."
+            },
+            {
+              "code": "4742",
+              "value": "Comercio p/me eq. teleco. establecimientos especializados"
+            },
+            {
+              "code": "4743",
+              "value": "Comercio p/me equipos audio/vídeo establecimientos especializados"
+            },
+            {
+              "code": "4751",
+              "value": "Comercio p/me textiles en establecimientos especializados"
+            },
+            {
+              "code": "4752",
+              "value": "Comercio p/m ferretería/pintiura/vidrio estbl. especializados"
+            },
+            {
+              "code": "4753",
+              "value": "Comercio p/me alfombras/moquetas/revest. paredes/suelos est. esp."
+            },
+            {
+              "code": "4754",
+              "value": "Comercio p/me aparatos electrod. establecimientos especializados"
+            },
+            {
+              "code": "4759",
+              "value": "Comercio p/me muebles/ap. ilum./otros artí. uso dom. est. esp."
+            },
+            {
+              "code": "4761",
+              "value": "Comercio p/me libros en establecimientos especializados"
+            },
+            {
+              "code": "4762",
+              "value": "Comercio p/me periódicos/artíc. de papelería estbl. esp."
+            },
+            {
+              "code": "4763",
+              "value": "Comercio p/me grabaciones música/video estbl. especializados"
+            },
+            {
+              "code": "4764",
+              "value": "Comercio p/me artículos deportivos estbl. especializados"
+            },
+            {
+              "code": "4765",
+              "value": "Comercio p/me juegos/juguetes establecimientos especializados"
+            },
+            {
+              "code": "4771",
+              "value": "Comercio p/me prendas de vestir en establ. especializados"
+            },
+            {
+              "code": "4772",
+              "value": "Comercio p/me calzado/artículos cuero establ. especializados"
+            },
+            {
+              "code": "4773",
+              "value": "Comercio p/me productos farmacéuticos estbl. especializados"
+            },
+            {
+              "code": "4774",
+              "value": "Comercio p/me artículos médicos/ortopédicos estbl. espec."
+            },
+            {
+              "code": "4775",
+              "value": "Comercio p/me prod. cosmét./perfum. establ. especializados"
+            },
+            {
+              "code": "4776",
+              "value": "Comercio p/me flores/plantas/semillas/fertil./anim. comp./alim."
+            },
+            {
+              "code": "4777",
+              "value": "Comercio p/me artículos relojería/joyería estbl. espec."
+            },
+            {
+              "code": "4778",
+              "value": "Otro comercio p/me artículos nuevos estbl. especializados"
+            },
+            {
+              "code": "4779",
+              "value": "Comercio p/me artículos segunda mano establ. especializados"
+            },
+            {
+              "code": "4781",
+              "value": "Comercio p/me productos aliment./bebidas/tabaco venta/mercadillo"
+            },
+            {
+              "code": "4782",
+              "value": "Comercio p/me prod. textiles/prendas vestir/calzado vent/merc."
+            },
+            {
+              "code": "4789",
+              "value": "Comercio p/me otros productos en puestos de venta y mercadillos"
+            },
+            {
+              "code": "4791",
+              "value": "Comercio al por menor por correspondencia o internet"
+            },
+            {
+              "code": "4799",
+              "value": "Otro comercio p/me no realizado ni en establ./venta/mercad."
+            },
+            {
+              "code": "48",
+              "value": "R1-Actividades de juegos de azar y apuestas"
+            },
+            {
+              "code": "49",
+              "value": "R2-Otras actividades artísticas, recreativas y de entrenimiento  "
+            },
+            {
+              "code": "4910",
+              "value": "Transporte interurbano de pasajeros por ferrocarril"
+            },
+            {
+              "code": "4920",
+              "value": "Transporte de mercancías por ferrocarril"
+            },
+            {
+              "code": "4931",
+              "value": "Transporte terrestre urbano y suburbano de pasajeros"
+            },
+            {
+              "code": "4932",
+              "value": "Transporte por taxi"
+            },
+            {
+              "code": "4939",
+              "value": "Otros tipos de transporte terrestre de pasajeros n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "4941",
+              "value": "Transporte de mercancías por carretera"
+            },
+            {
+              "code": "4942",
+              "value": "Servicios de mudanza"
+            },
+            {
+              "code": "4950",
+              "value": "Transporte por tubería"
+            },
+            {
+              "code": "5",
+              "value": "EJERCITO / SEGURIDAD"
+            },
+            {
+              "code": "50",
+              "value": "S1-Otros servicios "
+            },
+            {
+              "code": "5010",
+              "value": "Transporte marítimo de pasajeros"
+            },
+            {
+              "code": "5020",
+              "value": "Transporte marítimo de mercancías"
+            },
+            {
+              "code": "5030",
+              "value": "Transporte de pasajeros por vías navegables interiores"
+            },
+            {
+              "code": "5040",
+              "value": "Transporte de mercancías por vías navegables interiores"
+            },
+            {
+              "code": "51",
+              "value": "T1-Empleadores personal doméstico y actividades de los hogares"
+            },
+            {
+              "code": "5110",
+              "value": "Transporte aéreo de pasajeros"
+            },
+            {
+              "code": "5121",
+              "value": "Transporte aéreo de mercancías"
+            },
+            {
+              "code": "5122",
+              "value": "Transporte espacial"
+            },
+            {
+              "code": "52",
+              "value": "U1-Actividades de organizaciones y organismos extraterritoriales "
+            },
+            {
+              "code": "5210",
+              "value": "Depósito y almacenamiento"
+            },
+            {
+              "code": "5221",
+              "value": "Actividades anexas al transporte terrestre"
+            },
+            {
+              "code": "5222",
+              "value": "Actividades anexas transporte marítimo y por vías naveg. inter."
+            },
+            {
+              "code": "5223",
+              "value": "Actividades anexas al transporte aéreo"
+            },
+            {
+              "code": "5224",
+              "value": "Manipulación de mercancías"
+            },
+            {
+              "code": "5229",
+              "value": "Otras actividades anexas al transporte"
+            },
+            {
+              "code": "5310",
+              "value": "Activ. postales sometidas a la obligación del servicio universal"
+            },
+            {
+              "code": "5320",
+              "value": "Otras actividades postales y de correos"
+            },
+            {
+              "code": "5510",
+              "value": "Hoteles y alojamientos similares"
+            },
+            {
+              "code": "5520",
+              "value": "Alojamientos turísticos y otros alojamientos de corta estancia"
+            },
+            {
+              "code": "5530",
+              "value": "Campings y aparcamientos para caravanas"
+            },
+            {
+              "code": "5590",
+              "value": "Otros alojamientos"
+            },
+            {
+              "code": "5610",
+              "value": "Restaurantes"
+            },
+            {
+              "code": "5621",
+              "value": "Provisión de comidas preparadas para eventos"
+            },
+            {
+              "code": "5629",
+              "value": "Otros servicios de comidas n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "5630",
+              "value": "Establecimientos de bebidas"
+            },
+            {
+              "code": "5811",
+              "value": "Edición de libros"
+            },
+            {
+              "code": "5812",
+              "value": "Edición de directorios y guías de direcciones postales"
+            },
+            {
+              "code": "5813",
+              "value": "Edición de periódicos"
+            },
+            {
+              "code": "5814",
+              "value": "Edición de revistas"
+            },
+            {
+              "code": "5819",
+              "value": "Otras actividades editoriales"
+            },
+            {
+              "code": "5821",
+              "value": "Edición de videojuegos"
+            },
+            {
+              "code": "5829",
+              "value": "Edición de otros programas informáticos"
+            },
+            {
+              "code": "5912",
+              "value": "Activ. postproducción cinematográfica, de vídeo/programas de tv"
+            },
+            {
+              "code": "5914",
+              "value": "Actividades de exhibición cinematográfica"
+            },
+            {
+              "code": "5915",
+              "value": "Actividades de producción cinematográfica y de vídeo"
+            },
+            {
+              "code": "5916",
+              "value": "Actividades de producción de programas de televisión"
+            },
+            {
+              "code": "5917",
+              "value": "Actividades de distribución cinematográfica y de vídeo"
+            },
+            {
+              "code": "5918",
+              "value": "Actividades de distribución de programas de televisión"
+            },
+            {
+              "code": "5920",
+              "value": "Actividades de grabación de sonido y edición musical"
+            },
+            {
+              "code": "6",
+              "value": "SANIDAD"
+            },
+            {
+              "code": "6010",
+              "value": "Actividades de radiodifusión"
+            },
+            {
+              "code": "6020",
+              "value": "Actividades de programación y emisión de televisión"
+            },
+            {
+              "code": "6110",
+              "value": "Telecomunicaciones por cable"
+            },
+            {
+              "code": "6120",
+              "value": "Telecomunicaciones inalámbricas (excepto por satelite)"
+            },
+            {
+              "code": "6130",
+              "value": "Telecomunicaciones por satélite"
+            },
+            {
+              "code": "6190",
+              "value": "Otras actividades de telecomunicaciones"
+            },
+            {
+              "code": "6201",
+              "value": "Activ. programación inform. (programación orientada al cliente)"
+            },
+            {
+              "code": "6202",
+              "value": "Actividades de consultoría informática"
+            },
+            {
+              "code": "6203",
+              "value": "Gestión de recursos informáticos"
+            },
+            {
+              "code": "6209",
+              "value": "Otros serv. relac. con la tecno. de la información/informática"
+            },
+            {
+              "code": "6311",
+              "value": "Proceso de datos, hosting y actividades relacionadas"
+            },
+            {
+              "code": "6312",
+              "value": "Portales web"
+            },
+            {
+              "code": "6391",
+              "value": "Actividades de las agencias de noticias"
+            },
+            {
+              "code": "6399",
+              "value": "Otros servicios de información n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "6411",
+              "value": "Banco central"
+            },
+            {
+              "code": "6419",
+              "value": "Otra intermediación monetaria"
+            },
+            {
+              "code": "6420",
+              "value": "Actividades de las sociedades holding"
+            },
+            {
+              "code": "6430",
+              "value": "Inversión colectiva, fondos y entidades financieras similares"
+            },
+            {
+              "code": "6491",
+              "value": "Arrendamiento financiero"
+            },
+            {
+              "code": "6492",
+              "value": "Otras actividades crediticias"
+            },
+            {
+              "code": "6499",
+              "value": "Otros serv.financ., excpto seguros/fondos pensiones n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "6511",
+              "value": "Seguros de vida"
+            },
+            {
+              "code": "6512",
+              "value": "Seguros distintos de los seguros de vida"
+            },
+            {
+              "code": "6520",
+              "value": "Reaseguros"
+            },
+            {
+              "code": "6530",
+              "value": "Fondos de pensiones (expto los del sist. publ. seguridad social)"
+            },
+            {
+              "code": "6611",
+              "value": "Administración de mercados financieros"
+            },
+            {
+              "code": "6612",
+              "value": "Activ. intermediación operaciones con valores y otros activos"
+            },
+            {
+              "code": "6619",
+              "value": "Otras activ. aux. a serv. financ., excpto seguros/fondos pens."
+            },
+            {
+              "code": "6621",
+              "value": "Evaluación de riesgos y daños"
+            },
+            {
+              "code": "6622",
+              "value": "Actividades de agentes y corredores de seguros"
+            },
+            {
+              "code": "6629",
+              "value": "Otras actividades auxiliares a seguros y fondos de pensiones"
+            },
+            {
+              "code": "6630",
+              "value": "Actividades de gestión de fondos"
+            },
+            {
+              "code": "6810",
+              "value": "Compraventa de bienes inmobiliarios por cuenta propia"
+            },
+            {
+              "code": "6820",
+              "value": "Alquiler de bienes inmobiliarios por cuenta propia"
+            },
+            {
+              "code": "6831",
+              "value": "Agentes de la propiedad inmobiliaria"
+            },
+            {
+              "code": "6832",
+              "value": "Gestión y administración de la propiedad inmobiliaria"
+            },
+            {
+              "code": "6910",
+              "value": "Actividades jurídicas"
+            },
+            {
+              "code": "6920",
+              "value": "Activ. contabilidad/teneduría libros/auditoría/asesoría fisc."
+            },
+            {
+              "code": "7",
+              "value": "ELECT., AGUA Y GAS"
+            },
+            {
+              "code": "7010",
+              "value": "Actividades de las sedes centrales"
+            },
+            {
+              "code": "7021",
+              "value": "Relaciones públicas y comunicación"
+            },
+            {
+              "code": "7022",
+              "value": "Otras actividades de consultoría de gestión empresarial"
+            },
+            {
+              "code": "7111",
+              "value": "Servicios técnicos de arquitectura"
+            },
+            {
+              "code": "7112",
+              "value": "Serv. técnicos ingeniería y otras act. relac. con asesor. téc."
+            },
+            {
+              "code": "7120",
+              "value": "Ensayos y análisis técnicos"
+            },
+            {
+              "code": "7211",
+              "value": "Investigación y desarrollo experimental en biotecnología"
+            },
+            {
+              "code": "7219",
+              "value": "Otra investig./desarrollo experimental en cienc. naturales/tec."
+            },
+            {
+              "code": "7220",
+              "value": "Investig./desarrollo experimental en cienc. sociales/humanid."
+            },
+            {
+              "code": "7311",
+              "value": "Agencias de publicidad"
+            },
+            {
+              "code": "7312",
+              "value": "Servicios de representación de medios de comunicación"
+            },
+            {
+              "code": "7320",
+              "value": "Estudios de mercado y realización de encuestas de opinión pública"
+            },
+            {
+              "code": "74",
+              "value": "X0-Organización sin ánimo de lucro (OSAL, ONL, ONG,...)"
+            },
+            {
+              "code": "7410",
+              "value": "Actividades de diseño especializado"
+            },
+            {
+              "code": "7420",
+              "value": "Actividades de fotografía"
+            },
+            {
+              "code": "7430",
+              "value": "Actividades de traducción e interpretación"
+            },
+            {
+              "code": "7490",
+              "value": "Otras activ. profesionales, científicas y técnicas n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "7500",
+              "value": "Actividades veterinarias"
+            },
+            {
+              "code": "7711",
+              "value": "Alquiler de automóviles y vehículos de motor ligeros"
+            },
+            {
+              "code": "7712",
+              "value": "Alquiler de camiones"
+            },
+            {
+              "code": "7721",
+              "value": "Alquiler de artículos de ocio y deportivos"
+            },
+            {
+              "code": "7722",
+              "value": "Alquiler de cintas de vídeo y discos"
+            },
+            {
+              "code": "7729",
+              "value": "Alquiler de otros efectos personales y artículos uso doméstico"
+            },
+            {
+              "code": "7731",
+              "value": "Alquiler de maquinaria y equipo de uso agrícola"
+            },
+            {
+              "code": "7732",
+              "value": "Alquiler maquinaria/equipo para la construción e ingeniería civil"
+            },
+            {
+              "code": "7733",
+              "value": "Alquiler de maquinaria y equipo de oficina, incluidos ordenadores"
+            },
+            {
+              "code": "7734",
+              "value": "Alquiler de medios de navegación"
+            },
+            {
+              "code": "7735",
+              "value": "Alquiler de medios de transporte aéreo"
+            },
+            {
+              "code": "7739",
+              "value": "Alquiler de otra maquinaria, equipos y bienes tangibles"
+            },
+            {
+              "code": "7740",
+              "value": "Arrendamiento de bienes no tangibles (excepto financieros)"
+            },
+            {
+              "code": "7810",
+              "value": "Actividades de las agencias de colocación"
+            },
+            {
+              "code": "7820",
+              "value": "Actividades de las empresas de trabajo temporal"
+            },
+            {
+              "code": "7830",
+              "value": "Otra provisión de recursos humanos"
+            },
+            {
+              "code": "79",
+              "value": "X1-Institución financiera domiciliada en la UE o en Japón, Canadá y/o EE.UU., sus sucursales y filiales."
+            },
+            {
+              "code": "7911",
+              "value": "Actividades de las agencias de viajes"
+            },
+            {
+              "code": "7912",
+              "value": "Actividades de los operadores turísticos"
+            },
+            {
+              "code": "7990",
+              "value": "Otros serv. reservas y activ. relacionadas con los mismos"
+            },
+            {
+              "code": "8",
+              "value": "CORREOS Y TELÉGRAFOS"
+            },
+            {
+              "code": "80",
+              "value": "X2-Administraciones públicas de la UE o en Japón, Canadá y/o EE.UU., o sociedades participadas mayoritariamente por éstas."
+            },
+            {
+              "code": "8010",
+              "value": "Actividades de seguridad privada"
+            },
+            {
+              "code": "8020",
+              "value": "Servicios de sistemas de seguridad"
+            },
+            {
+              "code": "8030",
+              "value": "Actividades de investigación"
+            },
+            {
+              "code": "81",
+              "value": "K3-Entidades de dinero electrónico y de gestión de pagos                                                                  "
+            },
+            {
+              "code": "8110",
+              "value": "Servicios integrales a edificios e instalaciones"
+            },
+            {
+              "code": "8121",
+              "value": "Limpieza general de edificios"
+            },
+            {
+              "code": "8122",
+              "value": "Otras actividades de limpieza industrial y de edificios"
+            },
+            {
+              "code": "8129",
+              "value": "Otras actividades de limpieza  n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "8130",
+              "value": "Actividades de jardinería"
+            },
+            {
+              "code": "8211",
+              "value": "Servicios administrativos combinados"
+            },
+            {
+              "code": "8219",
+              "value": "Activ. fotocopiado/preparación documentos/otras activ. esp. ofi."
+            },
+            {
+              "code": "8220",
+              "value": "Actividades de los centros de llamadas"
+            },
+            {
+              "code": "8230",
+              "value": "Organización de convenciones y ferias de muestras"
+            },
+            {
+              "code": "8291",
+              "value": "Actividades de las agencias de cobros y de información general"
+            },
+            {
+              "code": "8292",
+              "value": "Actividades de envasado y empaquetado"
+            },
+            {
+              "code": "8299",
+              "value": "Otras actividades de apoyo a las empresas n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "8411",
+              "value": "Actividades generales de la Administración Pública"
+            },
+            {
+              "code": "8412",
+              "value": "Regul. activ. sanit./educat./cultur./otros serv. soc. excpt. SS"
+            },
+            {
+              "code": "8413",
+              "value": "Regulación activ. económica y contribución a su mayor eficiencia"
+            },
+            {
+              "code": "8421",
+              "value": "Asuntos exteriores"
+            },
+            {
+              "code": "8422",
+              "value": "Defensa"
+            },
+            {
+              "code": "8423",
+              "value": "Justicia"
+            },
+            {
+              "code": "8424",
+              "value": "Orden público y seguridad"
+            },
+            {
+              "code": "8425",
+              "value": "Protección civil"
+            },
+            {
+              "code": "8430",
+              "value": "Seguridad Social obligatoria"
+            },
+            {
+              "code": "8510",
+              "value": "Educación preprimaria"
+            },
+            {
+              "code": "8520",
+              "value": "Educación primaria"
+            },
+            {
+              "code": "8531",
+              "value": "Educación secundaria general"
+            },
+            {
+              "code": "8532",
+              "value": "Educación secundaria técnica y profesional"
+            },
+            {
+              "code": "8541",
+              "value": "Educación postsecundaria no terciaria"
+            },
+            {
+              "code": "8543",
+              "value": "Educación universitaria"
+            },
+            {
+              "code": "8544",
+              "value": "Educación terciaria no universitaria"
+            },
+            {
+              "code": "8551",
+              "value": "Educación deportiva y recreativa"
+            },
+            {
+              "code": "8552",
+              "value": "Educación cultural (idiomas/musica/teatro/baile/artes/otros)"
+            },
+            {
+              "code": "8553",
+              "value": "Actividades de las escuelas de conducción y pilotaje"
+            },
+            {
+              "code": "8559",
+              "value": "Otra educación n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "8560",
+              "value": "Actividades auxiliares a la educación"
+            },
+            {
+              "code": "8610",
+              "value": "Actividades hospitalarias"
+            },
+            {
+              "code": "8621",
+              "value": "Actividades de medicina general"
+            },
+            {
+              "code": "8622",
+              "value": "Actividades de medicina especializada"
+            },
+            {
+              "code": "8623",
+              "value": "Actividades odontológicas"
+            },
+            {
+              "code": "8690",
+              "value": "Otras actividades sanitarias"
+            },
+            {
+              "code": "8710",
+              "value": "Asist. establecim. residenciales con cuidados de sanitarios"
+            },
+            {
+              "code": "8720",
+              "value": "Asist. establec. residenc. para pers. con discap. intelec."
+            },
+            {
+              "code": "8731",
+              "value": "Asistencia establecimientos residenciales parapersonas mayores"
+            },
+            {
+              "code": "8732",
+              "value": "Asistencia establecimientos residenciales personas discap.fís."
+            },
+            {
+              "code": "8790",
+              "value": "Otras activ. de asistencia establec. residenciales n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "8811",
+              "value": "Actividades servicios sociales sin alojamientopersonas mayores"
+            },
+            {
+              "code": "8812",
+              "value": "Actividades servicios sociales sin alojamiento pers.discapacidad"
+            },
+            {
+              "code": "8891",
+              "value": "Actividades de cuidado diurno de niños"
+            },
+            {
+              "code": "8899",
+              "value": "Otros activ. servicios sociales sin alojamiento n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "9",
+              "value": "ALIMENTACIÓN Y BEB."
+            },
+            {
+              "code": "9001",
+              "value": "Artes escénicas"
+            },
+            {
+              "code": "9002",
+              "value": "Actividades auxiliares a las artes escénicas"
+            },
+            {
+              "code": "9003",
+              "value": "Creación artística y literaria"
+            },
+            {
+              "code": "9004",
+              "value": "Gestión de salas de espectáculos"
+            },
+            {
+              "code": "9102",
+              "value": "Actividades de museos"
+            },
+            {
+              "code": "9103",
+              "value": "Gestión de lugares y edificios históricos"
+            },
+            {
+              "code": "9104",
+              "value": "Activ. jardines botánicos, parques zoológicos/reservas naturales"
+            },
+            {
+              "code": "9105",
+              "value": "Actividades de bibliotecas"
+            },
+            {
+              "code": "9106",
+              "value": "Actividades archivos"
+            },
+            {
+              "code": "9200",
+              "value": "Actividades de juegos de azar y apuestas"
+            },
+            {
+              "code": "9311",
+              "value": "Gestión de instalaciones deportivas"
+            },
+            {
+              "code": "9312",
+              "value": "Actividades de los clubes deportivos"
+            },
+            {
+              "code": "9313",
+              "value": "Actividades de los gimnasios"
+            },
+            {
+              "code": "9319",
+              "value": "Otras actividades deportivas"
+            },
+            {
+              "code": "9321",
+              "value": "Actividades de los parques de atracciones y los parques temáticos"
+            },
+            {
+              "code": "9329",
+              "value": "Otras actividades recreativas y de entretenimiento n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "9411",
+              "value": "Actividades de organizaciones empresariales y patronales"
+            },
+            {
+              "code": "9412",
+              "value": "Actividades de organizaciones profesionales"
+            },
+            {
+              "code": "9420",
+              "value": "Actividades sindicales"
+            },
+            {
+              "code": "9491",
+              "value": "Actividades de organizaciones religiosas"
+            },
+            {
+              "code": "9492",
+              "value": "Actividades de organizaciones políticas"
+            },
+            {
+              "code": "9499",
+              "value": "Otras actividades asociativas n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "9511",
+              "value": "Reparación de ordenadores y equipos periféricos"
+            },
+            {
+              "code": "9512",
+              "value": "Reparación de equipos de comunicación"
+            },
+            {
+              "code": "9521",
+              "value": "Reparación aparatos electrónicos audio/vídeo de uso doméstico"
+            },
+            {
+              "code": "9522",
+              "value": "Repar. aparatos electrodomésticos y de eq. para el hogar/jardín"
+            },
+            {
+              "code": "9523",
+              "value": "Reparación de calzado y artículos de cuero"
+            },
+            {
+              "code": "9524",
+              "value": "Reparación de muebles y artículos de menaje"
+            },
+            {
+              "code": "9525",
+              "value": "Reparación de relojes y joyería"
+            },
+            {
+              "code": "9529",
+              "value": "Repar. otros efectos pers. y art. de uso doméstico n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "9601",
+              "value": "Lavado y limpieza de prendas textiles y de piel"
+            },
+            {
+              "code": "9602",
+              "value": "Peluquería y otros tratamientos de belleza"
+            },
+            {
+              "code": "9603",
+              "value": "Pompas fúnebres y actividades relacionadas"
+            },
+            {
+              "code": "9604",
+              "value": "Actividades de mantenimiento físico"
+            },
+            {
+              "code": "9609",
+              "value": "Otros servicios personales n.Pc.Po.Pp.P"
+            },
+            {
+              "code": "9700",
+              "value": "Activ. de los hogares como empleadores de personal doméstico"
+            },
+            {
+              "code": "9810",
+              "value": "Activ. hogares como productores de bienes para uso propio"
+            },
+            {
+              "code": "9820",
+              "value": "Activ. hogares como productores de servicios para uso propio"
+            },
+            {
+              "code": "9900",
+              "value": "Actividades de organizaciones y organismos extraterritoriales"
+            }
+          ]
