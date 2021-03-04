@@ -1,0 +1,55 @@
+[
+	{
+		"value" : "TRABAJADOR POR CUENTA AJENA FIJA",
+		"code" : "01"
+	},
+	{
+		"value" : "TRABAJADOR POR CUENTA PROPIA",
+		"code" : "02"
+	},
+	{
+		"value" : "PENSIONISTA",
+		"code" : "03"
+	},
+	{
+		"value" : "NO EMPLEADO Y EN DEMANDA DE EMPLEO",
+		"code" : "04"
+	},
+	{
+		"value" : "SIN EMPLEO",
+		"code" : "05"
+	},
+	{
+		"value" : "ESTUDIANTE",
+		"code" : "06"
+	},
+	{
+		"value" : "AMA DE CASA",
+		"code" : "07"
+	},
+	{
+		"value" : "TRABAJADOR POR CUENTA AJENA TEMP",
+		"code" : "08"
+	},
+	{
+		"value" : "RENTISTA",
+		"code" : "09"
+	},
+	{
+		"value" : "FUNCIONARIO",
+		"code" : "10"
+	},
+	{
+		"value" : "OTROS",
+		"code" : "11"
+	},
+	{
+		"value" : "DESCONOCIDO",
+		"code" : "12"
+	},
+	{
+		"value" : "OTROS PROFESIONALES",
+		"code" : "13"
+	}
+
+]
