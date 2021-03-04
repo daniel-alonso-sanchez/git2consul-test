@@ -1,0 +1,90 @@
+ [
+	{
+		"value" : "PEP - PEP internacional DDR",
+		"code" : "PEP1"
+	},
+	{
+		"value" : "PEP - PEP internacional DDN",
+		"code" : "PEP2"
+	},
+	{
+		"value" : "PEP - PEP Español DDR",
+		"code" : "PEP3"
+	},
+	{
+		"value" : "PEP - PEP Español DDN",
+		"code" : "PEP4"
+	},
+	{
+		"value" : "PEP - RCA Internacional DDR",
+		"code" : "PEP5"
+	},
+	{
+		"value" : "PEP - RCA Internacional DDN",
+		"code" : "PEP6"
+	},
+	{
+		"value" : "PEP - RCA Nacional DDR",
+		"code" : "PEP7"
+	},
+	{
+		"value" : "PEP - RCA Nacional DDN",
+		"code" : "PEP8"
+	},
+	{
+		"value" : "SANC - Sanciones (UE y OFAC)",
+		"code" : "SANC1"
+	},
+	{
+		"value" : "SANC - Otras listas DDR",
+		"code" : "SANC2"
+	},
+	{
+		"value" : "SANC - Otras listas DDN",
+		"code" : "SANC3"
+	},
+	{
+		"value" : "BAJA - PEP - PEP internacional DDR",
+		"code" : "BAJA_PEP1"
+	},
+	{
+		"value" : "BAJA - PEP - PEP internacional DDN",
+		"code" : "BAJA_PEP2"
+	},
+	{
+		"value" : "BAJA - PEP - PEP Español DDR",
+		"code" : "BAJA_PEP3"
+	},
+	{
+		"value" : "BAJA - PEP - PEP Español DDN",
+		"code" : "BAJA_PEP4"
+	},
+	{
+		"value" : "BAJA - PEP - RCA Internacional DDR",
+		"code" : "BAJA_PEP5"
+	},
+	{
+		"value" : "BAJA - PEP - RCA Internacional DDN",
+		"code" : "BAJA_PEP6"
+	},
+	{
+		"value" : "BAJA - PEP - RCA Nacional DDR",
+		"code" : "BAJA_PEP7"
+	},
+	{
+		"value" : "BAJA - PEP - RCA Nacional DDN",
+		"code" : "BAJA_PEP8"
+	},
+	{
+		"value" : "BAJA - SANC - Sanciones (UE y OFAC)",
+		"code" : "BAJA_SANC1"
+	},
+	{
+		"value" : "BAJA - SANC - Otras listas DDR",
+		"code" : "BAJA_SANC2"
+	},
+	{
+		"value" : "BAJA - SANC - Otras listas DDN",
+		"code" : "BAJA_SANC3"
+	}
+]
